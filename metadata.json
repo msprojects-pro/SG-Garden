@@ -1,0 +1,6 @@
+{
+  "name": "S&G Garden Rooms",
+  "description": "Bespoke garden buildings, timber offices, man-caves, and expandable rooms in Peterlee, UK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
